@@ -8,17 +8,17 @@
 ### 엔진 & 언어 (Engines & Languages)
 | 엔진 (Engine) | 언어 (Language) |
 | :--- | :--- |
-| <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"> | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> |
-| <img src="https://img.shields.io/badge/Godot Engine-478CB0?style=for-the-badge&logo=godotengine&logoColor=white"> | <img src="https://img.shields.io/badge/GDScript-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> |
-| <img src="https://img.shields.io/badge/LÖVE-000000?style=for-the-badge&logo=love2d&logoColor=white"> | <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> |
-| <img src="https://img.shields.io/badge/Unreal Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
-| **General** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> |
+| <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a> | <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a> |
+| <a href="https://godotengine.org/" target="_blank"><img src="https://img.shields.io/badge/Godot Engine-478CB0?style=for-the-badge&logo=godotengine&logoColor=white"></a> | <a href="https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/index.html" target="_blank"><img src="https://img.shields.io/badge/GDScript-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white"></a> <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a> |
+| <a href="https://love2d.org/" target="_blank"><img src="https://img.shields.io/badge/LÖVE-000000?style=for-the-badge&logo=love2d&logoColor=white"></a> | <a href="https://www.lua.org/" target="_blank"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a> |
+| <a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.shields.io/badge/Unreal Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"></a> | <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> |
+| **General** | <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></a> |
 
 ### 도구 (Tools)
 <p>
-  <img src="https.img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/GraphicsGale-5a94a8?style=for-the-badge">
+  <a href="https://git-scm.com/" target="_blank"><img src="https.img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+  <a href="https://graphicsgale.com/" target="_blank"><img src="https://img.shields.io/badge/GraphicsGale-5a94a8?style=for-the-badge"></a>
 </p>
 
 ## 🌱 관심 분야 (Interests)
