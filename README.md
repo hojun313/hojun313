@@ -35,6 +35,14 @@
 - 게임 밸런스 (Game Balance)
 - 사용자 소통 (User Communication)
 
+## 🏆 세계관 Hall of Fame (지극히 개인적)
+*   Pokémon (포켓몬)
+*   League of Legends (리그 오브 레전드)
+*   Cookie Run (쿠키런)
+*   Marvel (마블)
+*   Harry Potter (해리포터)
+*   Ben 10 (벤 10)
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=hojun313&show_icons=true&theme=radical" />
