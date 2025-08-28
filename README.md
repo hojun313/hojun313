@@ -10,15 +10,6 @@
 
 그리고 위대한 게임은 개발자뿐만 아니라, 그 세계를 사랑하는 **커뮤니티와 함께 만들어나가는 것**이라고 믿습니다.
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hojun313&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojun313&layout=compact&theme=radical" />
-  </a>
-</p>
-
 ## 🚀 기술 스택 (Tech Stack)
 
 ### 엔진 & 언어 (Engines & Languages)
@@ -43,6 +34,15 @@
 - 플레이어 심리 (Player Psychology)
 - 게임 밸런스 (Game Balance)
 - 사용자 소통 (User Communication)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hojun313&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojun313&layout=compact&theme=radical" />
+  </a>
+</p>
 
 ## 📫 연락처 (Contact)
 <p>
