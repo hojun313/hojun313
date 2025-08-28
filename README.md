@@ -36,12 +36,20 @@
 - 사용자 소통 (User Communication)
 
 ## 🏆 세계관 Hall of Fame (지극히 개인적)
+
+**우주 최강급 (Cosmic Tier)**
 *   Pokémon (포켓몬)
+
+**지구 통일급 (Earth Unification Tier)**
 *   League of Legends (리그 오브 레전드)
-*   Cookie Run (쿠키런)
 *   Marvel (마블)
 *   Harry Potter (해리포터)
+
+**개취 (Personal Preference)**
+*   Cookie Run (쿠키런)
 *   Ben 10 (벤 10)
+*   Seven Knights (세븐나이츠)
+*   Bloons Tower Defense (벌룬즈 타워 디펜스)
 
 ##
 <p align="center">
