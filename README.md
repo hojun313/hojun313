@@ -1,65 +1,54 @@
-## Hi there 👋
+# 안녕하세요, 이호준입니다! 👋
 
-<!--
-**hojun313/hojun313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+플레이어에게 잊지 못할 경험을 선사하는 게임을 만들고 싶은 예비 게임 개발자 및 기획자입니다.
+게임의 시스템과 스토리를 설계하고, 플레이어와 소통하며 더 나은 게임을 만드는 일에 큰 흥미를 느끼고 있습니다.
 
-Here are some ideas to get you started:
+## 🚀 기술 스택 (Tech Stack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🎮 세상을 움직이는 게임을 만드는 개발자, [본인 이름] 🚀
-안녕하세요! 게임의 본질적인 재미를 탐구하며 사용자에게 잊지 못할 경험을 선사하고 싶은 게임 개발자 [본인 이름]입니다. 컴퓨터공학 지식과 게임에 대한 깊은 이해를 바탕으로, 플레이어의 마음을 사로잡는 게임을 만드는 데 기여하고자 합니다.
+### 엔진 & 언어 (Engines & Languages)
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Unreal Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Godot Engine-478CB0?style=for-the-badge&logo=godotengine&logoColor=white">
+  <img src="https://img.shields.io/badge/GDScript-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/LÖVE-000000?style=for-the-badge&logo=love2d&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-🔥 About Me
-게임에 대한 깊은 열정: PC, 콘솔, 인디 게임을 아우르며 플레이어 중심의 경험을 설계합니다.
+### 도구 (Tools)
+<p>
+  <img src="https.img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphicsGale-5a94a8?style=for-the-badge">
+</p>
 
-완결성과 진화의 조화: 패키지 게임의 완성도와 라이브 서비스 게임의 지속적인 발전을 모두 추구합니다.
+## 🌱 관심 분야 (Interests)
+- 레벨 디자인 (Level Design)
+- 게임 시스템 디자인 (Game Systems Design)
+- 플레이어 심리 (Player Psychology)
+- 게임 밸런스 (Game Balance)
+- 원활한 소통 (Communication)
 
-끈기와 문제 해결 능력: 예측 불가능한 난관에 직면해도 포기하지 않고 해결책을 찾아냅니다.
-
-탐구하는 학습 자세: 게임 시스템, 디자인, 서사 구조를 분석하며 새로운 아이디어의 기반을 다집니다.
-
-🛠️ My Skill Stack
-추가필
-
-💻 컴퓨터공학 & 게임 개발 역량
-컴퓨터공학과에서 학습한 내용은 게임 개발의 견고한 기반이 되었습니다.
-
-🚀 프로젝트 경험: 아이디어에서 구현까지
-개인 및 팀 프로젝트를 통해 게임 개발 실제 경험과 문제 해결, 협업 능력을 쌓았습니다.
-
-개인 프로젝트: 기획, 개발, 테스트 전반 경험 및 독립적 학습 능력 강화.
-
-팀 프로젝트: 아이디어 공유, 역할 분담, 협업의 중요성 체감.
-
-[프로젝트 세부 내용]: (간략하게 인상 깊었던 프로젝트 이름과 본인의 역할을 1~2줄로 요약)
-
-예: "2D 횡스크롤 플랫폼 게임 '별 헤는 밤' 개발 (개인): 플레이어 조작감/레벨 디자인 담당"
-
-예: "협동 퍼즐 게임 '미로의 수호자' 개발 (팀): 백엔드 통신/DB 설계 기여"
-
-더 자세한 프로젝트 내용은 제 블로그에서 확인하실 수 있습니다. (추후 업데이트 예정)
-
-✍️ 게임 기획자로서의 흥미 분야 (개발과 기획을 넘나들며)
-게임의 핵심 요소를 설계하는 과정에 깊은 흥미를 느끼며, 개발 역량과 기획 이해를 결합하여 완성도 높은 게임을 만듭니다.
-
-시스템 디자인: 게임의 근간이 되는 규칙과 메커니즘 설계.
-
-레벨 디자인: 플레이어 경험을 위한 공간 및 도전 구성.
-
-밸런스 디자인: 모든 요소의 조화로운 수치 조율.
-
-사용자 경험(UX) 디자인: 플레이어가 즐겁게 게임을 즐길 수 있도록 고민.
-
-📊 GitHub Stats
-🌐 개발 관련 활동 & Contact
-개인 블로그: 제 블로그를 통해 학습 과정과 개발 경험을 정리하고 공유합니다. (지속적으로 업데이트 중)
-
-커뮤니티 활동: 활발한 커뮤니티 참여를 통해 지식 공유와 협력의 가치를 실천합니다.
+## 📫 연락처 (Contact)
+<p>
+  <a href="https://hojun.github.io">
+    <img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=blogger&logoColor=white">
+  </a>
+  <a href="mailto:hojun313@naver.com">
+    <img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/hojun-lee-834571234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
