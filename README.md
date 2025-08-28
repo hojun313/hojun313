@@ -12,7 +12,7 @@
 | <img src="https://img.shields.io/badge/Unreal Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
 | <img src="https://img.shields.io/badge/Godot Engine-478CB0?style=for-the-badge&logo=godotengine&logoColor=white"> | <img src="https://img.shields.io/badge/GDScript-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> |
 | <img src="https://img.shields.io/badge/LÖVE-000000?style=for-the-badge&logo=love2d&logoColor=white"> | <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> |
-| **General** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pygame-6EB43F?style=for-the-badge"> |
+| **General** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
 
 ### 도구 (Tools)
 <p>
@@ -30,7 +30,7 @@
 
 ## 📫 연락처 (Contact)
 <p>
-  <a href="https://hojun.github.io">
+  <a href="https://hojun313.github.io">
     <img src="https://img.shields.io/badge/Blog-1e90ff?style=for-the-badge&logo=blogger&logoColor=white">
   </a>
   <a href="mailto:hojun313@naver.com">
