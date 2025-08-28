@@ -12,7 +12,7 @@
 | <img src="https://img.shields.io/badge/Unreal Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
 | <img src="https://img.shields.io/badge/Godot Engine-478CB0?style=for-the-badge&logo=godotengine&logoColor=white"> | <img src="https://img.shields.io/badge/GDScript-478CB0?style=for-the-badge&logo=godot-engine&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> |
 | <img src="https://img.shields.io/badge/LÖVE-000000?style=for-the-badge&logo=love2d&logoColor=white"> | <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"> |
-| **General** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
+| **General** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> |
 
 ### 도구 (Tools)
 <p>
@@ -26,7 +26,7 @@
 - 게임 시스템 디자인 (Game Systems Design)
 - 플레이어 심리 (Player Psychology)
 - 게임 밸런스 (Game Balance)
-- 원활한 소통 (Communication)
+- 사용자 소통 (User Communication)
 
 ## 📫 연락처 (Contact)
 <p>
