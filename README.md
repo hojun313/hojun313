@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdpbmZpbnRreWFzb25lNGJrdW5haHk5ZWxnOWliczZwZ2lmOW4wMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="400">
 </p>
 
 # 안녕하세요, 이호준입니다! 👋
