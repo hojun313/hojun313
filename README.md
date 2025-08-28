@@ -1,7 +1,21 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="400">
+</p>
+
 # 안녕하세요, 이호준입니다! 👋
 
--플레이어에게 잊지 못할 경험을 선사하는 게임을 만들고 싶은 예비 게임 개발자 및 기획자입니다.
-게임의 시스템과 스토리를 설계하고, 플레이어와 소통하며 더 나은 게임을 만드는 일에 큰 흥미를 느끼고 있습니다.-
+플레이어에게 잊지 못할 경험을 선사하는 게임을 만들고 싶은 예비 게임 개발자 및 기획자입니다.
+
+저는 특히 **스토리가 매력적인 RPG 게임**의 세계관을 구축하고, 그 안에서 플레이어가 즐길 수 있는 **시스템을 설계**하는 일에 큰 흥미를 느끼고 있습니다. 언젠가 모두의 마음속에 오래 기억될 게임을 만드는 것이 꿈입니다.
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=hojun313&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojun313&layout=compact&theme=radical" />
+  </a>
+</p>
 
 ## 🚀 기술 스택 (Tech Stack)
 
